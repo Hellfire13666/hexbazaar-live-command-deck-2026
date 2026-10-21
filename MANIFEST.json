@@ -1,0 +1,24 @@
+{
+  "product": "HEXBZ-LIVE-COMMAND-DECK",
+  "version": "v0.1.0",
+  "manifest_version": 1,
+  "files": {
+    "INSTALL_DESKTOP_AND_ALIAS.sh": "7ee570815921b23a31a1e97dd0aecd5e672cdabb12a8e8aa351082383d220461",
+    "LICENSE-NOTICE.md": "76163d60b97ee3a0097791ec907689a0bccc2749996a8ac5c9c165ae21f80bf1",
+    "OPEN_GUIDE.sh": "000b395989841601ae6b768b724a75e551de4314014c7707a4e95a0dfdb115db",
+    "README.md": "ecad0b23ae5d66f20f8ca1c7a676eef1225c203c444e27d9591b14891c772505",
+    "RELEASE_NOTES.md": "2c7d8582ea30141959acd1cd57001fe37c93c1f0f7e0195ddb59ea2cf693421a",
+    "RUN_HEXBAZAAR_LIVE.sh": "c3b3969d961f28e31f6498528aa9eeb41d185ceacf46680e9c0623937309f299",
+    "assets/deck.css": "b283e52aa6cac6f7d804cd98c9d9bf04516c14aa0c6bcbfdfd6d30ab0d416b0a",
+    "assets/deck.js": "986339c2c56cb2580d568aaa9adc6cd5c74d5970547288c7b4e18b95c82bbe15",
+    "assets/favicon.png": "6d897de63a853127f9f2e49fb74489af71018287f76c65ea825676f09c57bed4",
+    "assets/hexbazaar-banner-approved.png": "9e545f8eeb1cc0cb4d3f1497fa8d07bcd8d220263d8d326297b5da4bab3c5f8c",
+    "assets/rosie-hexbazaar-approved.png": "2ecc5dbc21e875e531d1aa7af8645393a5fde8fe2fa48bb40c5e05be197ee208",
+    "commands.html": "3e84842e4f55a5ce548dfdd0cebd6bbf4a8fa788bcce3a78a253471bb1919f2a",
+    "help.html": "9822fc908bde09afd73d472db020807c184c90fa69d56cdf4e2d2097b1a8cce9",
+    "index.html": "6bfee541ff6f42dd56c3df00695700f8db6438c20cc65ce2df009b7668fe73bd",
+    "providers.html": "a407ee248b56d7fc9763c2833c4fcef0d94cba5c0f962b53e9c524af10326a57",
+    "scripts/verify_package.py": "14dff311d48cb5c100baef39e3d448d6ecca65a62564baf0eca508cf4b94979d",
+    "tests/test_deck.py": "4fee78f73f427163a36ee328764590e4e868299ba389967e034c80bc0271ef65"
+  }
+}
