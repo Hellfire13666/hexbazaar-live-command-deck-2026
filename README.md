@@ -1,7 +1,7 @@
 # 🌹 HEXBAZAAR Live Command Deck v0.1.0
 
 <!-- GLITCHBYTE-VISITOR-BADGE:START -->
-[![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHellfire13666%2Fhexbazaar-live-command-deck-2026&count_bg=%23FF1493&title_bg=%23080808&icon=&icon_color=%23FFFFFF&title=PAGE+VIEWS&edge_flat=false)](https://github.com/Hellfire13666/hexbazaar-live-command-deck-2026)
+[![Page Views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHellfire13666%2Fhexbazaar-live-command-deck-2026&label=PAGE%20VIEWS&icon=emoji-smile&color=%23FF1493&style=flat-square)](https://github.com/Hellfire13666/hexbazaar-live-command-deck-2026)
 <!-- GLITCHBYTE-VISITOR-BADGE:END -->
 
 **Separate companion launch page for the genuine installed HEXBAZAAR Savage Intel Shop v0.1.2-rc1.** This package does **not** include, fork, or overwrite that research engine. Its commands call the real installed Python 3 public-source CLI. The main Start, Easy, Medium, and Savage recipes use `domain --live`; **synthetic demos are not on the launch page**.
